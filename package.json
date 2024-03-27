@@ -1,0 +1,21 @@
+{
+  "name": "jokersss",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakladka3/JOKERSSS.git"
+  },"dependencies": {
+    "tea-demonstration-6": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakladka3/JOKERSSS/issues"
+  },
+  "homepage": "https://github.com/Zakladka3/JOKERSSS#readme"
+}
